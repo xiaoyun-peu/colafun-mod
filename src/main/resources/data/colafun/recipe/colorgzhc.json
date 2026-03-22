@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    "minecraft:iron_ingot",
+    "colafun:colorp"
+  ],
+  "result": {
+    "id": "colafun:colorgk",
+    "count": 1
+  }
+}

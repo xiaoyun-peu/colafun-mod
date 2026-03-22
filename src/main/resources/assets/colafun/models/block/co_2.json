@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "colafun:block/co2",
+    "up": "colafun:block/co2",
+    "north": "colafun:block/co2",
+    "east": "colafun:block/co2",
+    "south": "colafun:block/co2",
+    "west": "colafun:block/co2",
+    "particle": "colafun:block/co2"
+  },
+  "render_type": "solid"
+}

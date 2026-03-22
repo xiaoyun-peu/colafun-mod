@@ -1,0 +1,39 @@
+modLoader="javafml"
+loaderVersion="[4,)"
+license="MIT License"
+
+[[mods]]
+modId="colafun"
+version="1.0.0"
+displayName="ColaFun"
+displayURL="https://example.com"
+credits="\u8FD9\u91CC\u662F\u9E23\u8C22\u540D\u5355"
+authors="xiaoyun_peu"
+description="\u73A9Minecraft?\u6765\u70B9\u53EF\u4E50\uFF1F"
+
+# Start of user code block mod configuration
+# End of user code block mod configuration
+
+
+# Start of user code block custom mixins
+# End of user code block custom mixins
+
+[[dependencies.colafun]]
+    modId="neoforge"
+    type="required"
+    versionRange="[21.8.31,)"
+    ordering="AFTER"
+    side="BOTH"
+
+[[dependencies.colafun]]
+    modId="minecraft"
+    type="required"
+    versionRange="[1.21.8]"
+    ordering="AFTER"
+    side="BOTH"
+
+
+
+
+# Start of user code block dependencies configuration
+# End of user code block dependencies configuration

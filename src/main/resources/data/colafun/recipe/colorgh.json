@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    "colafun:colorgk",
+    "colafun:co_2",
+    "minecraft:brown_dye",
+    "minecraft:sugar",
+    "minecraft:potion"
+  ],
+  "result": {
+    "id": "colafun:colorg",
+    "count": 1
+  }
+}

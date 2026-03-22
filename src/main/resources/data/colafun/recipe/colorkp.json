@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    "colafun:colorp",
+    "minecraft:glass_bottle"
+  ],
+  "result": {
+    "id": "colafun:colork",
+    "count": 1
+  }
+}

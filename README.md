@@ -1,8 +1,8 @@
 # colafun-mod
 Play Minecraft? Get some Cola!
 
-#这个仓库仅用于报告问题！
-#This repository is only for reporting issues!
+# 这个仓库仅用于报告问题！<br>
+# This repository is only for reporting issues!<br>
 
 ## 中文（Chinese）:<br>
 是时候为Minecraft增加一些汽水了！<br>
